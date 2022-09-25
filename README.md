@@ -1,4 +1,5 @@
 
+<h1>GROCERY SHOPPING LIST APPLICATION</h1>
 This is a Grocery Shopping List Android App developed as a project for Virtual Internship- Android Application Development using Kotlin by Smartinternz.
 
 Link to demo video- https://youtu.be/uwC7mqjRnTY
